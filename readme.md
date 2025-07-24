@@ -145,6 +145,6 @@
 | Crew radio & radar teammate | ✅      | Jarak + nickname tampil  |
 | Role & kemampuan unik       | ✅      | Harus balance            |
 | Spawn selector              | ✅      | UI interaktif            |
-| Sistem uang & shop          | ✅      | Ekonomi dasar jalan dulu |
+| Sistem uang & shop          | ✅      | Ekonomi dasar jalan dulu sisanya update lah |
 
 
